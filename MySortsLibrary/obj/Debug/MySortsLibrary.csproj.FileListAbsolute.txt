@@ -1,0 +1,10 @@
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\bin\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\bin\Debug\MySortsLibrary.pdb
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.csprojResolveAssemblyReference.cache
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.pdb
+F:\MySortsLibrary\MySortsLibrary\bin\Debug\MySortsLibrary.dll
+F:\MySortsLibrary\MySortsLibrary\bin\Debug\MySortsLibrary.pdb
+F:\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.csprojResolveAssemblyReference.cache
+F:\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.dll
+F:\MySortsLibrary\MySortsLibrary\obj\Debug\MySortsLibrary.pdb

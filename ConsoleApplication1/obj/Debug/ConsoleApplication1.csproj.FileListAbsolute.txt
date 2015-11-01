@@ -1,0 +1,19 @@
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\MySortsLibrary.dll
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\bin\Debug\MySortsLibrary.pdb
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Женя\Projects VS\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\MySortsLibrary\ConsoleApplication1\bin\Debug\MySortsLibrary.dll
+F:\MySortsLibrary\ConsoleApplication1\bin\Debug\MySortsLibrary.pdb
+F:\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+J:\MySortsLibrary\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\MySortsLibrary\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
